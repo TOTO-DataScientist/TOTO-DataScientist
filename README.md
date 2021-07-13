@@ -6,7 +6,7 @@
 
 
 <!--リポジトリ-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TOTO-DataScientist&repo=DataScience_Cleansing&theme=radical)](https://github.com/TOTO-DataScientist/DataScience_Cleansing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TOTO-DataScientist&repo=PySDP&theme=radical)](https://github.com/TOTO-DataScientist/PySDP)
 
 
 <!-- リポジトリステータス -->
