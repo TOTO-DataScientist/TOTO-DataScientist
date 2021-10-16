@@ -2,11 +2,11 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning NLP
 
-<a href=https://TorDataScientist.github.io/datascience/>私のサイトはこちら</a>
+<a href=https://sites.google.com/view/tordatascientist/home/>私のサイトはこちら</a>
 
 
 <!--リポジトリ-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorDataScientist&repo=PySDP&theme=radical)](https://github.com/TorDataScientist/PyTDP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorDataScientist&repo=PyTDP&theme=radical)](https://github.com/TorDataScientist/PyTDP)
 
 
 <!-- リポジトリステータス -->
