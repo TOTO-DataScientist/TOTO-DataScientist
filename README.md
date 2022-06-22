@@ -6,7 +6,8 @@
 
 
 <!--リポジトリ-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorDataScientist&repo=PyTDP&theme=radical)](https://github.com/TorDataScientist/PyTDP)
+私の作成したライブラリはこちら👇  
+[https://github.com/TorDataScientist/PyTDP](https://pypi.org/project/PyTDP/)
 
 
 <!-- リポジトリステータス -->
